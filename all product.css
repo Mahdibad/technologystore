@@ -1,0 +1,195 @@
+body
+{
+  max-width: 1000px;
+width:100%;   
+margin:30px auto;
+padding: 0;
+}
+.main-header-wrapper
+{
+padding-top: 30px;
+ display: inline;
+    
+}
+.main-h{
+max-width: 1000px;
+position: relative;
+color: #3b4858;
+border-bottom: 1px solid #e5e5e5;
+text-align: center;
+font-size: 0;
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+.header-search-forme
+{
+font-size: 16px;
+display: inline-block;
+vertical-align: middle;
+position: relative;
+*width: 20%;
+  
+}
+input.header-search-input
+{
+   font-size: 14px;
+    font-family: Myriad Hebrew sans-serif;
+    border: solid 0px #eee;
+    background: url("698627-icon-111-search-128.png") top left     no-repeat;
+    background-size: 30px;
+    padding-left: 30px;
+    height: 35px;
+}
+.branding{
+display: inline-block;
+vertical-align: middle;
+text-align: center;
+width: -webkit-calc(100% - 440px);
+width: calc(100% - 440px);
+line-height: 1;
+font-family: Myriad Hebrew ;
+font-weight: bold;
+font-size: 24px;
+color:#744949;
+}
+.branding .site-title a{
+font-family: Myriad Hebrew ;
+font-weight: bold;
+font-size: 30px;
+color:#744949;
+text-decoration: none;
+}
+.items{
+display: inline-block;
+vertical-align: middle;
+width: 200px;
+text-align: right;
+font-size: 14px;
+position: relative;
+}
+.item-icon{
+    height: 20px;
+    width: 30px;
+}
+.item{
+    
+    font-family:Myriad Hebrew ;
+    font-size: 14px;
+    font-weight: bold;
+    color:#744949; 
+}
+.navigation{
+text-align: center;
+margin-top: 25px;
+width: 1000px;
+}
+
+
+
+
+nav{
+    display: block;
+}
+.navigation-first-tie{
+    display: inline-block;
+    
+}
+.navigation ul li a{
+
+text-decoration: none;
+font-family: Myriad Hebrew ;
+font-size: 12.7px;
+height: 30px;
+ width:200px;
+color:#744949;
+font-weight: bold;
+max-width: 200px;
+    
+}
+.navigation ul li{
+    width: 200px;
+    display: inline;
+    text-align: center;
+    padding: 0 55px;
+    
+}
+.slid{
+    margin-top: 15px;
+   
+}
+.sld{
+    text-decoration: none;
+    display: block;
+    color: black;
+    width: 160px;
+    margin-left: 30px;
+    border-bottom: solid 1px black;
+    text-align: center;
+    margin-bottom: 14px;
+    padding-bottom: 5px;
+}
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navi ul li a { 
+    
+width:200px;
+text-align:left;
+margin-left:100px;
+text-decoration: none;
+color: black;
+}
+.navigate{ 
+ font-family: Myriad Hebrew;
+font-weight: bold;
+text-decoration: none;
+color: black;
+    }
+.social-media-icons ul li {  
+    float: right;
+    position: relative;
+    display:inline;
+    bottom: 70px;
+    right: 100px;
+    break-after: 10px;
+    padding: 0px 10px ;
+}
+.footer-copyright p{ 
+   margin-top: 40px;
+   text-align: center;
+   color: black; 
+    font-family: Myriad Hebrew;
+    font-weight: bold;
+}
+ul{ list-style: none;}
+#footer {
+margin-top: 40px;    
+ padding-top: 10px;
+ position: relative; 
+ height:80px;
+ width: 1000px;
+ border-top:solid 2px  #e5e5e5;
+ border-bottom: solid 2px  #e5e5e5;
+ bottom: 0px;
+}
+
